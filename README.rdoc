@@ -1,5 +1,7 @@
 DC.js
 ---------
 http://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-Using-Crossfil
+
 https://becomingadatascientist.wordpress.com/tag/dc-js/
+
 http://dc-js.github.io/dc.js/
